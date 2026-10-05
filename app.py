@@ -5,7 +5,7 @@ import pandas as pd
 st.title("Student Attendance Analyzer")
 
 # Load attendance dataset
-df = pd.read_csv("data/attendance.csv")
+df = pd.read_csv("attendance.csv")
 
 # Display original data
 st.dataframe(df)
