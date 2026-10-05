@@ -1,0 +1,16 @@
+Student_ID,Student_Name,Department,Subject,Classes_Held,Classes_Attended
+S001,Arun,Data Science,Python,40,36
+S001,Arun,Data Science,DBMS,38,32
+S001,Arun,Data Science,Statistics,42,38
+S002,Priya,Data Science,Python,40,34
+S002,Priya,Data Science,DBMS,38,29
+S002,Priya,Data Science,Statistics,42,35
+S003,Rahul,Data Science,Python,40,25
+S003,Rahul,Data Science,DBMS,38,24
+S003,Rahul,Data Science,Statistics,42,27
+S004,Divya,Data Science,Python,40,39
+S004,Divya,Data Science,DBMS,38,36
+S004,Divya,Data Science,Statistics,42,40
+S005,Karthik,Data Science,Python,40,30
+S005,Karthik,Data Science,DBMS,38,31
+S005,Karthik,Data Science,Statistics,42,32
